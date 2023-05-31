@@ -1,1 +1,1 @@
-# Image-To-Game-JS
+# ScribbleGameJS
